@@ -8,7 +8,7 @@ const Menu = () => {
           end
           className='nav-links'
         >
-          Гланая
+          <h2>Nariman BookStore</h2>
         </NavLink>
         <div className='nav-links'>
           <NavLink to='/cart'>Корзина</NavLink>
